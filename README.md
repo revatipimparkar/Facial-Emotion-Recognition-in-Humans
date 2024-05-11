@@ -9,11 +9,23 @@ Libraries utilised in this emotion recognition are:
 
 
 DeepFace: for facial analysis
+
+
 OpenCV: for image processing
+
+
 Numpy: for numerical operations.
+
+
 Shutil: aids in file manipulation tasks.
+
+
 Mediapipe: for facial landmark detection
-TensorFlow and Keras: for building and training convolutional neural network (CNN) models. 
+
+
+TensorFlow and Keras: for building and training convolutional neural network (CNN) models.
+
+
 pickle, glob, and collections: for data handling and manipulation. 
 
 
