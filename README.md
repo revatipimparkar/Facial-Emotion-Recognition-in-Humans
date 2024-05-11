@@ -1,5 +1,4 @@
-# Facial-Emotion-Recognition-in-Humans-
-Facial Emotion Recognition: Leveraging CREMA-D Dataset with Convolutional Neural Networks
+# Facial Emotion Recognition: Leveraging CREMA-D Dataset with Convolutional Neural Networks
 
 
 This project entails implementing a deep learning-based emotion recognition model on the CREMA-D dataset, leveraging facial landmarks and Convolutional Neural Networks (CNN). Through the integration of K-fold cross-validation, the model aims to accurately classify five emotions from video-derived image data. Python is utilized for development, emphasizing the use of CNN for efficient model training and validation.
